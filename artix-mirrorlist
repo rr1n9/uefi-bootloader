@@ -1,0 +1,6 @@
+Server = https://mirror1.artixlinux.org/repos/$repo/os/$arch
+Server = https://mirrors.dotsrc.org/artix-linux/repos/$repo/os/$arch
+Server = https://mirrors.grimmware.de/artix-linux/repos/$repo/os/$arch
+Server = https://artix.unixpeople.org/repos/$repo/os/$arch
+Server = https://mirror.netcologne.de/artix-linux/$repo/os/$arch
+Server = https://quantum-mirror.hu/mirrors/artix/repos/$repo/os/$arch
